@@ -1,0 +1,42 @@
+.text {
+	text-align: center;
+	font-size: 60px;
+}
+
+
+#a {
+    text-decoration:none;
+    color: #4191f5;
+}
+
+.btn {
+	display:inline-block;
+    margin: 0 auto;
+	margin-top: 15px;
+	height: 100px;
+	width: 20%;
+	text-align: center;
+	border-radius: 10px;
+	background-color: #4191f5;
+	border: 0;
+	
+	color: white;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.btn:hover {
+	background-color: #5eb4ff;
+}
+
+#btn {
+	text-align: center;
+}
+
+.lbtn {
+	margin-right: 30px;
+}
+
+.rbtn {
+	margin-left: 30px;
+}
